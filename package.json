@@ -1,0 +1,28 @@
+{
+  "name": "feedback-sdk",
+  "version": "0.0.1",
+  "description": " 用户反馈sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "dev": "webpack-dev-server --config webpack.config.js --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsail/feedback-sdk.git"
+  },
+  "keywords": [
+    "user-feedback"
+  ],
+  "author": "sail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsail/feedback-sdk/issues"
+  },
+  "homepage": "https://github.com/iamsail/feedback-sdk#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
